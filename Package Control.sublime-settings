@@ -1,0 +1,58 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"1Self",
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"Better Completion",
+		"BlackRain",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Clipboard Manager",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"CSS Format",
+		"DocBlockr",
+		"Emmet",
+		"File Icons Extended",
+		"Git",
+		"Git Config",
+		"HTML5",
+		"Icon Fonts",
+		"iconfont snippets",
+		"JsFormat",
+		"LiveStyle",
+		"Monokai Extended",
+		"My Snippets",
+		"Package Control",
+		"Package Syncing",
+		"PlainTasks",
+		"Predawn",
+		"QuoteHTML",
+		"Sandor's Glowfish Colour Scheme",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"Terminal",
+		"TrailingSpaces",
+		"Trimmer"
+	],
+	"repositories":
+	[
+		"https://github.com/facelessuser/BracketHighlighter/",
+		"https://github.com/SublimeText/TrailingSpaces",
+		"https://github.com/kevinsperrine/sublime_alignment/",
+		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3",
+		"https://github.com/mutian/Sublime-Quote-HTML",
+		"https://github.com/titoBouzout/SideBarFolders"
+	]
+}
